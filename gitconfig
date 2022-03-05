@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lisayang041@gmail.com
+	name = Lisa Yang
